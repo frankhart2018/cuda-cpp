@@ -1,0 +1,9 @@
+Julia Set is the boundary of certain class of functions over complex numbers
+For almost all values of the function's parameters, this boundary forms a fractal
+
+Julia Set evaluates a simple iterative equation for points in the complex plane.
+A point is not in the set if the process of iterating the equation diverges for that point, that is, if the sequence of values produced by
+iterating the equations grows toward infinity, a point is considered outside the set
+Conversely, if the values taken by the equation remain bounded, the point is in the set
+
+Z_{n + 1} = Z_n^2 + C
